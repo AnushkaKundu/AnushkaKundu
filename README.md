@@ -3,11 +3,18 @@ I am a full stack developer and a Machine Learning enthusiast. I am also extreme
 
 
 🎓 I’m a Computer Science & Engineering Undergrad at NIT Surat, Gujarat
+
 🔭 I’m currently working on Natural language processing.
+
 🌱 I’m currently learning system design to accomplish my goal of making scalable, lightweight and useful applications.
+
 👯 I’m looking to collaborate on full stack web development projects
+
 👨‍💻 All of my projects are available at https://github.com/AnushkaKundu
+
 💬 Ask me about algorithms and code optimization. 
+
 😄 Pronouns: She/ Her
+
 
 Other than programming, my hobbies include painting, reading novels, fiction, playing badminton, swimming and listening to podcasts.
