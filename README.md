@@ -17,4 +17,4 @@ I am a full stack developer and a Machine Learning enthusiast. I am also extreme
 😄 Pronouns: She/ Her
 
 
-Other than programming, my hobbies include painting, reading novels, fiction, playing badminton, swimming and listening to podcasts.
+Other than programming, my hobbies include painting 🎨, reading novels, fiction and self-help books 📖, playing badminton 🏸, swimming  🏊, listening to music and podcasts 🎵.
