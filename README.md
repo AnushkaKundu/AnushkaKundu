@@ -4,7 +4,7 @@ I am a full stack developer and a Machine Learning enthusiast. I am also extreme
 
 🎓 I’m a Computer Science & Engineering Undergrad at NIT Surat, Gujarat
 
-🔭 I’m currently working on Natural language processing.
+🔭 I’m currently working on Natural language processing and Computer Vision.
 
 🌱 I’m currently learning system design to accomplish my goal of making scalable, lightweight and useful applications.
 
