@@ -4,4 +4,4 @@
 
 😄 Pronouns: She/ Her
 
-Other than programming, my hobbies include painting 🎨, reading novels, fiction, philosophy and self-help books 📖, playing badminton 🏸, swimming  🏊, listening to music and podcasts 🎵.
+Other than programming, my hobbies include painting 🎨, reading books 📖, playing badminton 🏸, swimming  🏊, listening to music and podcasts 🎵.
